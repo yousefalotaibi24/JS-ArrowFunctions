@@ -1,5 +1,5 @@
 const greet = (name) => `Hello, ${name}!`;
-console.log(greet("ali"));
+console.log(greet("yousef"));
 
 const numbers = [23, 34, 59, 576];
 let sum = 0;
